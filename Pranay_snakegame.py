@@ -1,7 +1,6 @@
 import random
 import pygame
 import time
-
 pygame.init()
 
 width,height=600,600
